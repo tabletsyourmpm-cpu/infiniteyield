@@ -1,6 +1,4 @@
-# Infinite Yield
-
-The best command line script for roblox.
+# Inf YEILD but abusive commands are removed 
 
 [![](https://dcbadge.limes.pink/api/server/https://discord.gg/78ZuWSq)](https://discord.gg/78ZuWSq)
 
